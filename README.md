@@ -56,6 +56,8 @@
 | Staff | 7 | robertpass |
 | Admin | 99999 | 12345 |
 
+
+
 ## Screenshots
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/register.png?raw=true)
